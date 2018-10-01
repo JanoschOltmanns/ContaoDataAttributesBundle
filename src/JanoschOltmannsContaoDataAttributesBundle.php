@@ -12,7 +12,6 @@ namespace JanoschOltmanns\ContaoDataAttributesBundle;
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
 /**
- * Configures the 4Net easybus bundle.
  *
  * @author Janosch Oltmanns <https://www.janosch-oltmanns.de>
  */
